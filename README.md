@@ -1,2 +1,3 @@
 # qsip_growth-thermal-response_wildfire
 To resolve how wildfire reshapes taxon-specific bacterial growth responses to warming, we coupled H218O-DNA-qSIP with a +7 °C warming incubation using surface soils collected three months (F3M) and three years (F3Y) after a wildfire in a Pinus thunbergii forest, with an unburned reference (UB).
+The experiment comprised three soil categories (UB, F3M and F3Y), two temperatures (T21 and T28) and two isotope treatments (H218O-labelled and unlabelled), with three field replicates, yielding 36 incubation units. The same incubation units were used for community-level DNA isotope measurements and DNA quantitative stable isotope probing (DNA-qSIP).
